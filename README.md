@@ -1,6 +1,8 @@
 # Pickle Rick CTF Walkthrough
 
 This is a walkthrough for the Pickle Rick CTF challenge. The goal was to help Rick by finding three secret ingredients on the vulnerable web server.
+---
+
 ![](https://maxschmittlaurin.github.io/assets/rick.PNG)
 
 ---
